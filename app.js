@@ -43,7 +43,8 @@ function sortearAmigo() {
 
     const resultado = document.getElementById("resultadoSorteo");
        if (resultado) {
-        resulttextContent = `El amigo sorteado es: ${amigoSorteado}`;
+        resultado.textContent = `El amigo sorteado es: ${amigoSorteado}`;
+        resultado.classList.add("result-list");
     } else {
         alert(`El amigo sorteado es: ${amigoSorteado}`);
     }
