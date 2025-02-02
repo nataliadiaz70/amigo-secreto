@@ -1,15 +1,21 @@
-<h1 align="center"> AMIGO SECRETO </h1>
 
-<h2 align="left"> INTRODUCCION </h2>
-<br>
-<p>El AMIGO SECRETO, es un juego ideado para entretenimiento de grandes y chicos.No se necesitan muchos conocimientos para interactuar con él solo hacen falta los nombres de algassets/0001.pngunos amigos y ganas de divertirse un rato. </p>
-  <p align="left">
-  ![Logo_del_juego](assets/0001.png)
-![Logo del juego](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/assets/0001.png)
+## <img src="assets/0001.png" alt="Logo del juego" width="150"> <h1 align="right"> AMIGO SECRETO </h1>
 
 
-  <p align="left">
+## <h2 align="left"> INTRODUCCION </h2>
+
+
+
+ ## <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
-*[Descripción del proyecto](#descripción-del-proyecto)
-## :hammer:Funcionalidades del proyecto
+
+
+## 📖 Índice  
+- [Descripción del proyecto](#descripción-del-proyecto)  
+- [🔨 Funcionalidades del proyecto](#funcionalidades-del-proyecto)  
+
+## 📌 Descripción del proyecto  
+*<p>El AMIGO SECRETO, es un juego ideado para entretenimiento de grandes y chicos.No se necesitan muchos conocimientos para interactuar con él solo hacen falta los nombres de algunos amigos y ganas de divertirse un rato. </p>*  
+
+## 🔨 Funcionalidades del proyecto  
+*<p>AMIGO SECRETO ,ademas de ser un juego ,bastante sencillo, tiene por detras el desarrollo de personas que desde hace un tiempo estamos incursionando en el gigantezco y asombroso mundo de la programacion.y de esta manera plasmamos horas de estudio,dedicacion y trabajo .</p>*
