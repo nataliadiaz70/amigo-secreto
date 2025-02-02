@@ -5,11 +5,6 @@
 ## <h2 align="left"> INTRODUCCION </h2>
 
 
-
- ## <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-
-
 ## 📖 Índice  
 - [Descripción del proyecto](#descripción-del-proyecto)  
 - [🔨 Funcionalidades del proyecto](#funcionalidades-del-proyecto)  
