@@ -14,3 +14,10 @@
 
 ## 🔨 Funcionalidades del proyecto  
 *<p>AMIGO SECRETO ,ademas de ser un juego ,bastante sencillo, tiene por detras el desarrollo de personas que desde hace un tiempo estamos incursionando en el gigantezco y asombroso mundo de la programacion.y de esta manera plasmamos horas de estudio,dedicacion y trabajo .</p>*
+
+
+
+
+## Autora
+
+NATALIA DIAZ
