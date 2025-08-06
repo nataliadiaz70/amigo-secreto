@@ -9,12 +9,16 @@ function agregarAmigo() {
     const input = document.getElementById("amigo");
     const nombre= input.value.trim(); // Tomar el valor del input y eliminar espacios extra
 
-    if (nombre) {
+    // Validar que no esté vacío y que contenga letras (no solo números o símbolos)
+    const soloLetras = /^[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+$/;
+
+    if (nombre && soloLetras.test(nombre))  {
         nombres.push(nombre); // Agregar el nombre al array
         mostrarAmigos(); // Actualizar la lista en pantalla
         input.value = ""; // Limpiar el campo de texto
     } else {
         alert("Por favor, escribe un nombre válido.");
+        input.value = "";
     }
 }
 document.querySelector(".button-add").addEventListener("click", agregarAmigo);
@@ -27,7 +31,7 @@ function mostrarAmigos() {
     lista.innerHTML = ""; // Limpiar la lista
     nombres.forEach((amigo, index) => {
         const li = document.createElement("li");
-        li.textContent = `${index + 1}. ${amigo}`;
+        li.textContent = ` ${amigo}`;
         lista.appendChild(li);
     });
 }
