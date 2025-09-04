@@ -13,7 +13,7 @@
 *<p>El AMIGO SECRETO, es un juego ideado para entretenimiento de grandes y chicos.No se necesitan muchos conocimientos para interactuar con él solo hacen falta los nombres de algunos amigos y ganas de divertirse un rato. </p>*  
 
 ## 🔨 Funcionalidades del proyecto  
-*<p>AMIGO SECRETO ,ademas de ser un juego ,bastante sencillo, tiene por detras el desarrollo de personas que desde hace un tiempo estamos incursionando en el gigantezco y asombroso mundo de la programacion.y de esta manera plasmamos horas de estudio,dedicacion y trabajo .</p>*
+*<p>AMIGO SECRETO ademas de ser un juego ,bastante sencillo, tiene por detras el desarrollo de personas que desde hace un tiempo estamos incursionando en el gigantezco y asombroso mundo de la programacion.y de esta manera plasmamos horas de estudio,dedicacion,trabajo y diversion!!!.</p>*
 
 
 
